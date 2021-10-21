@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://youtu.be/X5WxjbR5MZE",
+    "name": "great clip",
+    "startTime": 3,
+    "endTime": 15
+  },
+  {
+    "url": "https://youtu.be/X5WxjbR5MZE",
+    "name": "second clip",
+    "startTime": 1,
+    "endTime": 4
+  },
+  {
+    "url": "https://youtu.be/qTkEt3YmmmU",
+    "name": "third clip",
+    "startTime": 80,
+    "endTime": 100
+  }
+]
