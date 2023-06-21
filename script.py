@@ -3,7 +3,7 @@ import os
 import json
 from moviepy.editor import *
 file = open("example-data.json")
-print(os.getcwd())
+
 
 videos = json.load(file)
     
